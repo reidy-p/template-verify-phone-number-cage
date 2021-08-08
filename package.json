@@ -1,0 +1,28 @@
+{
+  "name": "verify-phone-cage",
+  "version": "1.0.0",
+  "description": "A sample Cage template that will verify whether an encrypted phone number is valid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evervault/template-verify-phone-cage.git"
+  },
+  "keywords": [
+    "cage",
+    "security",
+    "encryption",
+    "evervault"
+  ],
+  "author": "Evervault Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evervault/template-verify-phone-cage/issues"
+  },
+  "homepage": "https://github.com/evervault/template-verify-phone-cage#readme",
+  "dependencies": {
+    "phone": "^3.1.4"
+  }
+}
