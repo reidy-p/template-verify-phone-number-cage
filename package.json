@@ -1,5 +1,5 @@
 {
-  "name": "verify-phone-cage",
+  "name": "template-verify-phone-number-cage",
   "version": "1.0.0",
   "description": "A sample Cage template that will verify whether an encrypted phone number is valid",
   "main": "index.js",
