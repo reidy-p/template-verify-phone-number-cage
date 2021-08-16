@@ -1,2 +1,5 @@
+# Sample input that can be used in the Cage playground
 [cage.playground]
 phone = "+1 (415) 223-8720"
+
+# Read more about how to use the cage.toml in our docs: https://docs.evervault.com/reference/cagetoml
