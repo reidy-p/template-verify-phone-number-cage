@@ -1,3 +1,6 @@
+[cage]
+handler = "memory.handler"
+
 # Sample input that can be used in the Cage playground
 [cage.playground]
 phone = "+1 (415) 223-8720"
